@@ -1,0 +1,10 @@
+{
+  "application": "Example",
+  "locale": "en",
+  "creationTime": "6/16/2021, 12:38:01 PM",
+  "resources": {
+    "STRING_1": "This is a sample string",
+    "STRING_2": "This is another sample string",
+    "STRING_3": "This string will be removed in the future"
+  }
+}
